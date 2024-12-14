@@ -17,7 +17,7 @@ const USER_CONFIG = {
   CITY: '南京',
   TIAN_API:{
         key:'aa8cc2138aaf96378f8696c0bf9ea389'
-  }
+  },
   USERS: [
     {
       // 想要发送的人的名字

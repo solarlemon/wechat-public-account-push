@@ -15,7 +15,7 @@ const USER_CONFIG = {
 
   PROVINCE: '江苏',
   CITY: '南京',
-
+  TIAN_API.key:'aa8cc2138aaf96378f8696c0bf9ea389',
   USERS: [
     {
       // 想要发送的人的名字
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oyrQD666LFcDImkjXMcqNzUs0os8',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'sHC9IZ_4A_VtFH-BXVj6Fa_Bx3BRgCOvd2e8_Jbj0cQ',
+      useTemplateId: '3pWHIZYZh7JsfOnc4xxUWKp12zLzDplKVQpKxGYkDNA',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '06-30',
       festivals: [
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '	s7j_-FGmdHFq-HQ34h5NSLPbDdxM9LGAjSxcudIJW5s',
+  CALLBACK_TEMPLATE_ID: 'WzFOeg2im0aog6GhiIZ5tNddRrPGF7RhGO5yHwvXaDk',
 
   CALLBACK_USERS: [
     {
